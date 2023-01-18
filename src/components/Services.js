@@ -7,8 +7,8 @@ const Services = () => {
     <Wrapper>
       <div className="section-center">
         <h3>
-          custom furniture <br />
-          built only for you
+          everything you need <br />
+          to ride in style
         </h3>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime quae
